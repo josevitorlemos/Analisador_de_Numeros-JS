@@ -1,0 +1,1 @@
+Repositório JavaScript - Feito para ensino através do "Curso em vídeo"
